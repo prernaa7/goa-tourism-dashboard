@@ -1,5 +1,3 @@
-# goa-tourism-dashboard
-
 # Goa Tourism Dashboard – SDG 8: Economic Growth
 
 ## Overview
