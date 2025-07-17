@@ -1,4 +1,6 @@
 # Goa Tourism Dashboard – SDG 8: Economic Growth
+[Goa Tourism Dashboard - Prerna Muzumdar](https://public.tableau.com/app/profile/prerna.muzumdar/viz/GoaTourismDashboard-PrernaMuzumdar/GoaTourismDashboard?publish=yes)
+
 
 ## Overview
 
